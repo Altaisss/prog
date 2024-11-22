@@ -9,10 +9,13 @@ with open("noveny.txt", "r", encoding="utf-8") as file :
 
 length = len(lst[0])
 lengthin = 0
+lengthmax = 0
 for i in range(0,len(lst),1):
     if len(lst[i]) < length:
         lengthin = i
         length=len(lst[i])
+    if len(lst[i]) > lengthmax:
+        lengthmax=len(lst[i])
 vanspace = True
 j = 0
 print(lst[lengthin])
@@ -72,6 +75,52 @@ for i in range(0,len(lst),1):
             valami = False
 print("9. feladat\n")
 for i in range(0,len(lst),1):
-    for j in range(0,length,1):
-        print("0", end="")
+    for j in range(0,lengthmax-len(lst[i]),1):
+        print(" ", end="")
     print(lst[i])
+
+print("10.-11. feladat") 
+kisbetu = open("kisbetus.txt","w", encoding="utf-8")
+nagybetu = open("nagybetus.txt", "w", encoding="utf-8")
+for i in range(0,len(lst),1):
+    kisbetu.write(f"{lst[i].lower()}\n")
+    nagybetu.write(f"{lst[i].upper()}\n")
+
+kisbetu.close()
+nagybetu.close()
+print("12. feladat")
+szam = int(input("Adj meg egy számot:"))
+szam = szam-1
+if szam > len(lst) :
+    print("Nincs ennyi növény a listán.")
+else :
+    if len(lst[szam]) > 10:
+        print(lst[szam][:2], end="")
+        for i in range(0,len(lst[szam])-4,1):
+            if lst[szam] != " ":
+                print(".", end="")
+            else:
+                print(" ")   
+        print(lst[szam][len(lst[szam])-2:])
+    else:
+        print(lst[szam][:1], end="")
+        for i in range(0,len(lst[szam])-2,1):
+            if lst[szam] != " ":
+                print(".", end="")
+            else:
+                print(" ")   
+        print(lst[szam][len(lst[szam])-1:])
+tipp = input("Találd ki! : ")
+tippmax = len(lst[szam])//2
+szamlalo = 0
+kitalalt = True
+while kitalalt:
+    if tipp.upper() == lst[szam].upper():
+        print("Eltaláltad!")
+        kitalalt = False
+    else:
+        tipp = input("Próbáld újra! :")
+        szamlalo =+1
+    if szamlalo > tippmax :
+        kitalat = False
+file.close()
