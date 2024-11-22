@@ -1,6 +1,3 @@
-class Noveny:
-    def __init__(self, be):
-           self.nev = be
 
 lst = []
 with open("noveny.txt", "r", encoding="utf-8") as file :
