@@ -1,3 +1,13 @@
+def szokoz(be) :
+    szamlalo = 0
+    index = 0
+    for index in range(0,len(be), 1):
+        if be[index] == " ":
+            szamlalo += 1
+    return szamlalo
+            
+        
+
 lst = []
 with open("filmek.txt", "r", encoding="utf-8") as file :
     for line in file:
@@ -7,15 +17,10 @@ print(len(lst))
 print("3. feladat")
 db = 0
 for i in range(0,len(lst), 1) :
-    szokoz = True
-    index = 0
-    while szokoz:
-        if lst[i][index] == " ":
-            db += 1
-            szokoz = False
-        index += 1
-        if index > len(lst[i])-1:
-            szokoz = False
+    if szokoz(lst[i]) == 0:
+        db += 1
+    elif szokoz(lst[i]) >= 4:
+        print(lst[i])
 print(db)
 print("4. feladat")
 for i in range(0,len(lst),1):
