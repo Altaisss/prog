@@ -1,0 +1,285 @@
+agárkosbor
+alacsony pozdor
+apró nőszirom
+árvalevelűlen
+babérboroszlán
+bakonyi berkenye
+bakszarvú lepkeszeg
+balatoni berkenye
+balti szegfű
+bársonyos kakukkszegfű
+békakonty
+berzedt tőzegmoha
+bíboros kosbor
+bodzaszagú ujjaskosbor
+bókoló gyöngyvirágoskörtike
+bókoló keltike
+bokros koronafürt
+boldogasszony papucsa
+borostyán-vajvirág
+borsóképű lednek
+borzas szulák
+borzas vértő
+bozontos árvalányhaj
+bozontos csukóka
+bugás sás
+buglyosszegfű
+bunkós hagyma
+buxbaum-sás
+büdös poloskavész
+cifra kankalin
+cseh tyúktaréj
+cselling
+csermelyaszat
+csillag őszirózsa
+csinos árvalányhaj
+csinos tárnicska
+csónakos tőzegmoha
+déli berkenye
+délvidéki árvalányhaj
+deres csenkes
+díszes vesepáfrány
+dombi ibolya
+dunai berkenye
+dunántúli sás
+egypelyvás csetkáka
+elbai nőszőfű
+epergyöngyike
+erdei békaszem
+erdei borkóró
+erdei ciklámen
+erdei holdviola
+erdei szellőrózsa
+ezüstaszott
+ezüstös útifű
+farkasboroszlán
+farkasölő sisakvirág
+fehér acsalapu
+fehér madársisak
+fehér sás
+fehér tündérrózsa
+fehér zászpa
+fehérmájvirág
+fekete fodorka
+fekete galagonya
+fekete kökörcsin
+fekete madárbirs
+fekete ribiszke
+fényes poloskamag
+fogaslevelű bükköny
+füles fűz
+füles kosbor
+fürtös gyűrűvirág
+fürtös kőtörőfű
+fűzlevelű ökörszem
+gáyer-berkenye
+gázló
+gérbics
+gímpáfrány
+gombos varjúköröm
+gömbtermésű sárma
+gyapjas gyűszűvirág
+gyapjasmagvú sás
+gyepes nefelejcs
+gyérvirágú csetkáka
+gyilkos csomorika
+halvány sáfrány
+halvány ujjaskosbor
+hármaslevelű vidrafű
+havasi ribiszke
+havasi szittyó
+havasi turbolya
+házi berkenye
+hengeresfészkű peremizs
+henye boroszlán
+heverő iszapfű
+holuby-bangó
+hólyagos kerekesféreglakta-májmoha
+homoki árvalányhaj
+homoki bakszakáll
+homoki fátyolvirág
+homoki imola
+homoki korcsord
+homoki nőszirom
+homoki szalmagyopár
+homoki varjúháj
+homoki vértő
+hosszúlevelű aggóvirág
+hosszúlevelű árvalányhaj
+hóvirág
+hússzínű ujjaskosbor
+ibolyás nőszőfű
+illatos bibircsvirág
+illatos hagyma
+kacstalan lednek
+kálmos
+kapcsos korpafű
+karcsú sisakvirág
+karcsú tőzegmoha
+kardos madársisak
+karéjos vesepáfrány
+kékes borkóró
+keleti zergevirág
+keménytövisű lucerna
+kereklevelű körtike
+kései prémestárnics
+kései szegfű
+keskenylevelű gyapjúsás
+keszthelyi berkenye
+kétlevelű sarkvirág
+kígyónyelv
+királyné gyertyánja/genyőjke
+kis holdruta
+kis körtike
+kis rence
+kisfészkű aszat
+kisfészkű hangyabogáncs
+kislevelű nőszőfű
+konkoly
+kormos csáté
+kornistárnics
+kőrislevelű nagyezerjófű
+kövér daravirág
+kövi pimpó
+közönséges harangláb
+közönséges tölgyespáfrány
+közönséges vízilófark
+kúszó/lápi csalán
+láperdei tőzegmoha
+lápi békabuzogány
+lápi hízóka
+lápi nádtippan
+lápi nyúlfarkfű
+lápi sás
+leánykökörcsin
+légybangó
+levéltelen bajuszvirág
+ligeti csillagvirág
+lila csenkesz
+lisztes berkenye
+lisztes kankalin
+lónyelvű csodabogyó
+macskahere
+madárfészek
+magas borsó
+magyar gurgolya
+magyar lednek
+magyar perje
+magyar pikkelypáfrán
+magyar repcsény
+májvirág
+martilapu-vajvirág
+méhbangó
+mezei szegfű
+mocsári aggófű
+mocsári békaliliom
+mocsári csorbóka
+mocsári kardvirág
+mocsári kígyófű
+mocsári kocsord
+mocsári kosbor
+mocsári lednek
+mocsári nőszőfű
+mohos csitri
+müller-nőszőfű
+nádi boglárka
+nagy aggófű
+nagy gombafű
+nagy picsirtafű
+nagy szegfű
+nagyvirágú fényperje
+nagyvirágú gyíkfű
+négysarkú piramismoha
+norden-nőszőfű
+nyárfa-pókhálósgomba
+nyugati csillagvirág
+nyugati pikkelypáfrány
+nyúlánk sárma
+óriás pókhálósgomba
+osztrák galaj
+örménygyökér
+őszi csillagvirág
+őszi füzértekercs
+palkasás
+pázsitos nőszirom
+pettyes orbáncfű
+pilisi bükköny
+piros madársisak
+piros mécsvirág
+piros pozdor
+pirotógyökér
+pókbangó
+poloskaszagú kosbor
+pompás kosbor
+posvány kakastaréj
+pusztai árvalányhaj
+pusztai meténg
+rákosi csenkesz
+réti szegfű
+rojtos tőzegmoha
+rostostövű sás
+sápadt kosbor
+sárga koronafürt
+sárga kövirózsa
+sárga len
+sárgaliliom
+selymes boglárka
+selymes peremizs
+sokvirágú habszegfű
+sömörös kosbor
+sulyoktáska
+sulyom
+sűrű csetkáka
+szálkás árvalányhaj
+szálkás pajzsika
+szártalan bábakalács
+szártalan kankalin
+szarvas hagyma
+széles pajzsika
+széleslevelű gyapjúsás
+széleslevelű nőszőfű
+széleslevelű ujjaskosbor
+szent lászló-tárnics
+szennyes ínfű
+szibériai nőszirom
+sziki árokvirág
+sziklai kövifoszlár
+színes békaszőlő
+szirti madárbirs
+sziklai ternye
+színes békaszőlő
+szőke oroszlánfog
+szúnyoglábú bibircsvirág
+szúrós csodabogyó
+szürkés ördögszem
+tallós-nőszőfű
+tarka imola
+tarka kosbor
+tarka lednek
+tarka nádtippan
+tarka nőszirom
+tarka sáfrány
+tarka zsurló
+tátorján
+tavaszi görvélyfű
+tavaszi hérics
+tavaszi tőzike
+téli zsurló
+téltemető
+tengeri szittyó
+terpedt koronafürt
+tőzegpáfrány
+turbánliliom
+tündérfátyol
+vastaggallyú körte
+vetővirág
+vitézkosbor
+vitézvirág
+vízparti deréce
+vörösbarna nőszőfű
+vöth-nőszőfű
+zergeboglár
+zöld fodorka
+zöld seprőmoha
+zöldes körtike
+zöldike
