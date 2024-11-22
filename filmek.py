@@ -6,8 +6,6 @@ def szokoz(be) :
             szamlalo += 1
     return szamlalo
             
-        
-
 lst = []
 with open("filmek.txt", "r", encoding="utf-8") as file :
     for line in file:
