@@ -96,23 +96,23 @@ if szam > len(lst) :
 else :
     if len(lst[szam]) > 10:
         print(lst[szam][:2], end="")
-        for i in range(0,len(lst[szam])-4,1):
-            if lst[szam] != " ":
-                print(".", end="")
+        for i in range(2,len(lst[szam])-2,1):
+            if lst[szam][i] == " ":
+                print(" ", end="")
             else:
-                print(" ")   
+                print(".", end ="")   
         print(lst[szam][len(lst[szam])-2:])
     else:
         print(lst[szam][:1], end="")
-        for i in range(0,len(lst[szam])-2,1):
-            if lst[szam] != " ":
-                print(".", end="")
+        for i in range(1,len(lst[szam])-1,1):
+            if lst[szam][i] == " ":
+                print(" ", end="")
             else:
-                print(" ")   
+                print(".", end = "")   
         print(lst[szam][len(lst[szam])-1:])
 tipp = input("Találd ki! : ")
 tippmax = len(lst[szam])//2
-szamlalo = 0
+szamlalo = 1
 kitalalt = True
 while kitalalt:
     if tipp.upper() == lst[szam].upper():
@@ -120,7 +120,8 @@ while kitalalt:
         kitalalt = False
     else:
         tipp = input("Próbáld újra! :")
-        szamlalo =+1
+        szamlalo += 1
     if szamlalo > tippmax :
-        kitalat = False
+        kitalalt = False
+        print("Nem tudtad kitalalni.")
 file.close()
