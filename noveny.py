@@ -39,3 +39,39 @@ betu = "e"
 for i in range(0,len(lst),1):
     if lst[i][0].lower() == betu.lower() :
         print(lst[i])
+print("5. feladat\n")
+for i in range(0,len(lst),1):
+    if lst[i][len(lst[i])-1].lower() == betu.lower() :
+        print(lst[i])
+print("6. feladat\n")
+for i in range(0,len(lst),1):
+    if lst[i][0].lower() == betu.lower() and lst[i][len(lst[i])-1].lower() == betu.lower():
+        print(lst[i])
+print("7. feladat")
+for i in range(0,len(lst),1):
+    valami = True
+    j = 0
+    while valami:     
+        if lst[i][j].lower() == betu.lower() :
+            print(lst[i])
+            valami = False
+        j +=1
+        if j == len(lst[i]):
+            valami = False
+print("8.feladat\n")
+be = input("Adj meg egy betűt: ")
+for i in range(0,len(lst),1):
+    valami = True
+    j = 0
+    while valami:     
+        if lst[i][j].lower() == be.lower() :
+            print(lst[i])
+            valami = False
+        j +=1
+        if j == len(lst[i]):
+            valami = False
+print("9. feladat\n")
+for i in range(0,len(lst),1):
+    for j in range(0,length,1):
+        print("0", end="")
+    print(lst[i])
